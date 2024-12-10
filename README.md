@@ -1,5 +1,4 @@
 # WebApp  Android WebView App
-![Android CI](https://github.com/krunalpatil18/Android-Webview-master/workflows/Android%20CI/badge.svg)
 ![GitHub](https://img.shields.io/github/license/krunalpatil18/Android-Webview-master)
 ![GitHub repo size](https://img.shields.io/github/repo-size/krunalpatil18/Android-Webview-master)
 ![Gitter](https://img.shields.io/gitter/room/krunalpatil18/Android-Webview-master)
