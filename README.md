@@ -1,8 +1,8 @@
 # WebApp  Android WebView App
-![Android CI](https://github.com/jigar-sable/Android-Webview/workflows/Android%20CI/badge.svg)
-![GitHub](https://img.shields.io/github/license/JigarSable/Android-Webview)
-![GitHub repo size](https://img.shields.io/github/repo-size/JigarSable/Android-Webview)
-![Gitter](https://img.shields.io/gitter/room/JigarSable/Android-Webview)
+![Android CI](https://github.com/krunalpatil18/Android-Webview-master/workflows/Android%20CI/badge.svg)
+![GitHub](https://img.shields.io/github/license/krunalpatil18/Android-Webview-master)
+![GitHub repo size](https://img.shields.io/github/repo-size/krunalpatil18/Android-Webview-master)
+![Gitter](https://img.shields.io/gitter/room/krunalpatil18/Android-Webview-master)
 
 A simple app to convert websites to a native android app.
 
@@ -52,23 +52,6 @@ It has **7 different color themes** you can choose which you want.
  Make sure the emulator and environment is set .
  
 ## About me
- An android developer in India. If you have any new idea about this project, feel free to [contact me](mailto:jigarsable0@gmail.com). 😃
+ An android developer in India. If you have any new idea about this project, feel free to [contact me](mailto:kp19766420@gmail.com). 😃
 
-## License
-    MIT License
 
-    Copyright (c) 2020 Jigar Sable
-
-    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
-    documentation files(the "Software"), to deal in the Software without restriction, including without limitation
-    the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
-    and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-    
-    The above copyright notice and this permission notice shall be included in all copies or substantial portions
-    of the Software.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-    TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-    THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
-    CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
-    DEALINGS IN THE SOFTWARE.
